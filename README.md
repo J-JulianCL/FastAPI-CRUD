@@ -1,7 +1,7 @@
 # FastAPI-CRUD
 API CRUD con FastAPI
 
-# Comandos necesarios para usar el modelo API CRUD:
+# Comandos necesarios para usar el modelo API CRUD
 
 .venv\Scripts\activate
 
